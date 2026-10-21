@@ -1,0 +1,2 @@
+# Sam
+Demo trading class
